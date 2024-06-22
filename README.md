@@ -58,3 +58,5 @@ Acknowledgments
 Mention any acknowledgments or credits for specific libraries, frameworks, or datasets used.
 Include credits to contributors or sources of inspiration for the project.
 This README file provides a comprehensive guide to setting up, using, and contributing to the FineTuned and Quantized LLM for Mental Health ChatBot using Q-lora. Customize it further based on specific project details, dependencies, or additional instructions as needed.
+
+Deployed Model : https://huggingface.co/norah15elizabeth/MentalHealthChatBot/tree/main
